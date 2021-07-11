@@ -303,28 +303,7 @@
   				background-position:50%-50%;
   }
   
-  .span{
-				width:27px;
-				height:22px;
-				color:white;
-				background-color:gray;
-				margin-left:10px; 
-				display:flex;
-				justify-content:space-between;
-				flex-direction:column;
-				margin-top:8px;
-				border:none;
-}
-
-.span span{
-				background-color:white;
-				width:17px;
-				height:3px;
-				display:block;
-				margin-top:3px;
-				margin-top:4px;
-				margin-left:5px;
-}
+  
   
   
   .prytna{
@@ -474,7 +453,7 @@ font-size:11px;
 
 <body>
 				<div class="head">
-					
+					<br><br>
 					<button class="mobel" id="mobel">×</button>
 					
 								
