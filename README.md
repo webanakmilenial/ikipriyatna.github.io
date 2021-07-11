@@ -423,7 +423,7 @@
 				flex-direction:column;
 				margin-top:8px;
 				border:none;
-				display:none;
+				
 				font-size:40px;
 }
 
