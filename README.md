@@ -88,7 +88,7 @@
 				
 				dispay:none;
 				float:right;
-				margin-top:-50%;
+				margin-top:-40%;
 }
 
 .contact{
@@ -196,7 +196,7 @@
 .fitu{
 				margin-left:74%;
 				
-				margin-top:-35%;
+				margin-top:-45%;
 				display:none;
 }
 
@@ -447,7 +447,7 @@
 }
 
 .titi{
-      float:right;
+      margin-left:5%;
 }
 
 
