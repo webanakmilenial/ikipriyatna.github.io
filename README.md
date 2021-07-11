@@ -446,7 +446,9 @@
 				font-size:40px;
 }
 
-
+.titi{
+      float:right;
+}
 
 
 				</style>
