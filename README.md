@@ -492,7 +492,7 @@ $(document).ready(function(){
 							</script>
 								
 								
-								<img src="https://raw.githubusercontent.com/ikipriyatna/ikipriyatna.github.io/main/IMG_20210710_065058-removebg-preview.png" class="prytna">
+								<img src="https://o.remove.bg/downloads/f8d21fde-96e8-4ba7-ae86-ec3345e0f973/IMG_20210710_065058-removebg-preview-removebg-preview.png" class="prytna">
 							<div class="bar" id="bar">
 								<ul>
 												<li>
