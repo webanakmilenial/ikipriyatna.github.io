@@ -48,7 +48,7 @@
 
 .welcome{
 				width:43%;
-				
+				margin-top:-10%;
 				margin-left:8%;
 				color:black;
 				
@@ -88,7 +88,7 @@
 				
 				dispay:none;
 				float:right;
-				margin-top:-30%;
+				margin-top:-50%;
 }
 
 .contact{
@@ -133,7 +133,7 @@
 				text-decoration:none;
 				background-color:black;
 				color:white;
-				width:50%;
+				width:60%;
 				font-size:9px;
 				font-weight:bold;
 				padding:7px;
