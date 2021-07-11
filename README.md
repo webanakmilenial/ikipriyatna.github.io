@@ -47,7 +47,7 @@
 
 
 .welcome{
-				width:40%;
+				width:43%;
 				
 				margin-left:8%;
 				color:black;
@@ -450,7 +450,7 @@
 
 
 				</style>
-</head>
+
 <body>
 				<div class="head">
 					<button class="span" id="span">
@@ -603,4 +603,4 @@ $(document).ready(function(){
 				</div>
 				
 </body>
-</html>
+
