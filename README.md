@@ -381,7 +381,7 @@
 
 .fitu{
 				margin-left:-30%;
-				margin-top:-60%;
+				
 				
 				
 }
