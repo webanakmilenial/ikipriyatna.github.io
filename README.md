@@ -133,7 +133,7 @@
 				text-decoration:none;
 				background-color:black;
 				color:white;
-				width:60%;
+				width:70%;
 				font-size:9px;
 				font-weight:bold;
 				padding:7px;
@@ -196,7 +196,7 @@
 .fitu{
 				margin-left:74%;
 				
-				margin-top:-45%;
+				margin-top:-50%;
 				display:none;
 }
 
@@ -204,7 +204,7 @@
 				
 				display:block;
 				background-color:grey;
-				padding:10px;
+				padding:15px;
 				width:70%;
 				border:none;
 				text-align:center;
@@ -446,8 +446,8 @@
 				font-size:40px;
 }
 
-.titi{
-      margin-left:5%;
+.titik{
+      float:none;
 }
 
 
