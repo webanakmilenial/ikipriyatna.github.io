@@ -362,7 +362,7 @@
   .get{
   				float:none;
   				margin-top:30%;
-  				margin-left:25%;
+  				margin-left:20%;
   				
   				width:50%;
   }
@@ -448,6 +448,15 @@
 
 .titik{
       float:none;
+      margin-left:10%;
+}
+
+.titi{
+      display:none;
+}
+
+.to{
+   font-size:23px;
 }
 
 
@@ -572,9 +581,9 @@ $(document).ready(function(){
 						<li>	<a class="lacak" href="#">Fitur 4</a></li>
 						<li>		<a class="tebak" href="#">Fitur 5</a></li>
 						<li>		<a class="login" href="#">Fitur 6</a></li>
-						<li><button class="tarik" id="tarik">×</button></li>
+						
 								</ul>
-								
+							<button class="tarik" id="tarik">×</button>	
 								
 								<script>
 												$(document).ready(function(){
