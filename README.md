@@ -359,7 +359,7 @@
 }
 
 .fitu{
-				float:none; margin-left:-30%; margin-top:30%;
+				float:none; margin-left:-15%; margin-top:25%;
 
 				
 				
@@ -496,7 +496,7 @@ $(document).ready(function(){
 																<a href="#">ABOUT</a>
 																<a href="#"><button class="fitur" id="fitur">FITUR</button></a>
                                                                                                                                  <button class="tarik" id="tarik">×</button>
-																<a href="#">ADMIN</a>
+																<a href="https://rifkipriyatna.github.io/MY-DATA/">ADMIN</a>
 																
 												</li>
 								</ul>
@@ -560,11 +560,11 @@ $(document).ready(function(){
 				<div class="fitu" id="fitu">
 								<ul>
 												<li>
-								<a class="bucin" href="#">Fitur 1</a></li>
+								<a class="bucin" href="https://rifkipriyatna.github.io/SIMP/">Fitur 1</a></li>
 								
-							<li><a class="bucinn" href="#">Fitur 2</a></li>
-							<li><a class="cerita" href="#">Fitur 3</a></li>
-						<li>	<a class="lacak" href="#">Fitur 4</a></li>
+							<li><a class="bucinn" href="https://rifkipriyatna.github.io/-/">Fitur 2</a></li>
+							<li><a class="cerita" href="https://rifkipriyatna.github.io/o/">Fitur 3</a></li>
+						<li>	<a class="lacak" href="https://ikipriyatna.github.io/-/">Fitur 4</a></li>
 						<li>		<a class="tebak" href="#">Fitur 5</a></li>
 						<li>		<a class="login" href="#">Fitur 6</a></li>
 						
