@@ -6,7 +6,7 @@
 				<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 				<style>
 								body{
-				background-image:url(prytnacode.jpeg);
+				background-image:url(https://raw.githubusercontent.com/ikipriyatna/ikipriyatna.github.io/main/prytnacode.jpeg);
 				background-position:-50%-100%;
 }
 
@@ -492,7 +492,7 @@ $(document).ready(function(){
 							</script>
 								
 								
-								<img src="file:///storage/emulated/0/Download/IMG_20210710_065058-removebg-preview.png" class="prytna">
+								<img src="https://raw.githubusercontent.com/ikipriyatna/ikipriyatna.github.io/main/IMG_20210710_065058-removebg-preview.png" class="prytna">
 							<div class="bar" id="bar">
 								<ul>
 												<li>
@@ -510,7 +510,7 @@ $(document).ready(function(){
 				
 				<div class="welcome">
 								
-								<img src="file:///storage/emulated/0/Download/images-removebg-preview.png" class="bola">
+								<img src="https://raw.githubusercontent.com/ikipriyatna/ikipriyatna.github.io/main/images-removebg-preview.png" class="bola">
 								<h2 class="to">Welcome To PRYTNA CODE</h2>
 								
 								<p class="website"><em>Di dalam website PRYTNA CODE memilik banyak fitur dan desain menarik silahkan klik fitur untuk mengetahui fitur yg di berikan website ini  </em></p> 
