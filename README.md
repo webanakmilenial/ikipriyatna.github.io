@@ -22,7 +22,7 @@
 
 .prytna{
 				margin-top:1%;
-				margin-left:25%;
+				margin-left:24.5%;
 				width:13%;
 				
 }
@@ -370,7 +370,7 @@
   
   .kirim{
   				width:100%;
-  				padding:9px;
+  				padding:12px;
   }
 
 .garis{
@@ -449,7 +449,7 @@
 
 .titik{
       float:none;
-      margin-left:36%;
+      margin-left:37.5%;
 }
 
 .titi{
