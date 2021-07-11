@@ -561,7 +561,7 @@ $(document).ready(function(){
 				</div>
 				
 				<div class="get" id="get">
-								<hr class="garis">
+								
 								<br>
 								<form name="get-contact">
 												
