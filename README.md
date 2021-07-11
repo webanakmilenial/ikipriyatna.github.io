@@ -351,7 +351,7 @@
   				
   				margin:auto;
   				display:block;
-  				width:100%; display:none;
+  				width:100%; 
   
   }
   
