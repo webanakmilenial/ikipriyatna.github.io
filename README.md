@@ -104,6 +104,7 @@
 				padding:8px;
 				border-radius:3px;
 				border:none;
+                                font-size:10px;
 				text-decoration:none;
 }
 
@@ -112,7 +113,7 @@
 				display:block;
 				padding:8px;
 				border-radius:3px;
-				border:none;
+				border:none; font-size:10px;
 				text-decoration:none;
 }
 
@@ -121,7 +122,7 @@
 				display:block;
 				padding:8px;
 				border-radius:3px;
-				border:none;
+				border:none; font-size:10px;
 				text-decoration:none;
 }
 
@@ -369,7 +370,7 @@
   
   .kirim{
   				width:100%;
-  				padding:10px;
+  				padding:20px;
   }
 
 .garis{
@@ -379,7 +380,7 @@
 
 .fitu{
 				margin-left:-30%;
-				margin-top:-87%;
+				margin-top:-95%;
 				
 				
 }
@@ -448,7 +449,7 @@
 
 .titik{
       float:none;
-      margin-left:10%;
+      margin-left:30%;
 }
 
 .titi{
@@ -456,7 +457,7 @@
 }
 
 .to{
-   font-size:23px;
+   font-size:15px;
 }
 
 
