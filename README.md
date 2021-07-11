@@ -350,7 +350,7 @@
   .welcome{
   				
   				margin:auto;
-  				display:block;
+  				display:block; display:none;
   				width:100%; 
   
   }
@@ -529,7 +529,7 @@ $(document).ready(function(){
 				<br><br><br><br>
 				
 				
-				<div class="welcome">
+				<div class="welcome" id="welcome">
 								
 								<img src="https://raw.githubusercontent.com/ikipriyatna/ikipriyatna.github.io/main/images-removebg-preview-removebg-preview.png" class="bola">
 								<h3 class="to">Welcome To PRYTNA CODE</h3>
