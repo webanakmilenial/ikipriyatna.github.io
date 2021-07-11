@@ -350,7 +350,7 @@
   .welcome{
   				
   				margin:auto;
-  				display:block; display:none;
+  				display:block; 
   				width:100%; 
   
   }
