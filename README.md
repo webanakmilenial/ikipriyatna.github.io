@@ -271,7 +271,7 @@
 				border:none;
 				text-decoration:none;
 				background-color:grey;
-				width:30%;
+				
 				color:white;
 				font-size:25px; display:none;
 }
@@ -612,6 +612,7 @@ $(document).ready(function(){
     $("#get").fadeIn(1000);
     $("#fitu").fadeOut(100);
     $("#fitur").fadeIn(1000);
+    $("#tarik").fadeOut(100);
     
     
   });
