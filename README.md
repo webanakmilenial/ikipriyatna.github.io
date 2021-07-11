@@ -22,7 +22,7 @@
 
 .prytna{
 				margin-top:1%;
-				margin-left:22%;
+				margin-left:25%;
 				width:13%;
 				
 }
@@ -449,7 +449,7 @@
 
 .titik{
       float:none;
-      margin-left:35.5%;
+      margin-left:36%;
 }
 
 .titi{
@@ -457,15 +457,15 @@
 }
 
 .nama{
-   font-size:9px;
+   font-size:12px;
 }
 
 .email{
-   font-size:9px;
+   font-size:12px;
 }
 
 .pesan{
-font-size:9px;
+font-size:12px;
 }
 
 
