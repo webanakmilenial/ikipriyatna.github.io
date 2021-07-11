@@ -409,7 +409,7 @@
 }
 
 .bar{
-				display:none;
+				
 }
 
 .mobel{
