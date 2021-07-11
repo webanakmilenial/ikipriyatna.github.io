@@ -380,7 +380,7 @@
 }
 
 .fitu{
-				float:right; 
+				float:right; margin-left:30%;
 				
 				
 				
@@ -388,7 +388,7 @@
 
 .fitu ul li{
 				
-				background:none; width:70%;
+				background:none; 
 }
 
 .bucin{
