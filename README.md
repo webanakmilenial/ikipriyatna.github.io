@@ -461,7 +461,7 @@
 }
 
 .email{
-   fotn-size:29px;
+   font-size:29px;
 }
 
 .pesan{
