@@ -104,7 +104,7 @@
 				padding:8px;
 				border-radius:3px;
 				border:none;
-                                font-size:10px;
+                                
 				text-decoration:none;
 }
 
@@ -113,7 +113,7 @@
 				display:block;
 				padding:8px;
 				border-radius:3px;
-				border:none; font-size:10px;
+				border:none; 
 				text-decoration:none;
 }
 
@@ -122,7 +122,7 @@
 				display:block;
 				padding:8px;
 				border-radius:3px;
-				border:none; font-size:10px;
+				border:none; 
 				text-decoration:none;
 }
 
@@ -363,7 +363,7 @@
   .get{
   				float:none;
   				margin-top:30%;
-  				margin-left:20%;
+  				margin-left:23%;
   				
   				width:50%;
   }
@@ -380,7 +380,7 @@
 
 .fitu{
 				margin-left:-30%;
-				margin-top:-95%;
+				margin-top:-50%;
 				
 				
 }
@@ -449,7 +449,7 @@
 
 .titik{
       float:none;
-      margin-left:30%;
+      margin-left:33%;
 }
 
 .titi{
