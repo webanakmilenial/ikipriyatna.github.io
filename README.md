@@ -453,7 +453,7 @@ font-size:11px;
 
 <body>
 				<div class="head">
-					<br><br>
+					
 					<button class="mobel" id="mobel">×</button>
 					
 								
