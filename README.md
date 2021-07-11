@@ -370,7 +370,7 @@
   
   .kirim{
   				width:100%;
-  				padding:20px;
+  				padding:9px;
   }
 
 .garis{
@@ -449,15 +449,23 @@
 
 .titik{
       float:none;
-      margin-left:33%;
+      margin-left:35.5%;
 }
 
 .titi{
       display:none;
 }
 
-.to{
-   font-size:15px;
+.nama{
+   font-size:29px;
+}
+
+.email{
+   fotn-size:29px;
+}
+
+.pesan{
+font-size:29px;
 }
 
 
@@ -523,7 +531,7 @@ $(document).ready(function(){
 				<div class="welcome">
 								
 								<img src="https://raw.githubusercontent.com/ikipriyatna/ikipriyatna.github.io/main/images-removebg-preview-removebg-preview.png" class="bola">
-								<h2 class="to">Welcome To PRYTNA CODE</h2>
+								<h3 class="to">Welcome To PRYTNA CODE</h3>
 								
 								<p class="website"><em>Di dalam website PRYTNA CODE memilik banyak fitur dan desain menarik silahkan klik fitur untuk mengetahui fitur yg di berikan website ini  </em></p> 
 								
