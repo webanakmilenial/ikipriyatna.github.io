@@ -449,7 +449,7 @@
 
 .titik{
       float:none;
-      margin-left:38.5%;
+      margin-left:38.8%;
 }
 
 .titi{
@@ -457,15 +457,15 @@
 }
 
 .nama{
-   font-size:10px;
+   font-size:11px;
 }
 
 .email{
-   font-size:10px;
+   font-size:11px;
 }
 
 .pesan{
-font-size:10px;
+font-size:11px;
 }
 
 
