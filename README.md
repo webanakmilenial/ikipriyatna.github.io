@@ -351,7 +351,8 @@
   				
   				margin:auto;
   				display:block;
-  				width:100%;
+  				width:100%; display:none;
+  
   }
   
   .contact{
@@ -380,7 +381,7 @@
 
 .fitu{
 				margin-left:-30%;
-				margin-top:-50%;
+				margin-top:-10%;
 				
 				
 }
@@ -421,7 +422,7 @@
 }
 
 .tarik{
-			        
+			        text-align:center;
 				display:none;
 				
 				
@@ -601,6 +602,7 @@ $(document).ready(function(){
     $("#get").fadeOut(100);
     $("#fitur").fadeOut(100);
     $("#tarik").fadeIn(1000);
+    $("#welcome").fadeOut(100);
     
     
   });
@@ -612,6 +614,7 @@ $(document).ready(function(){
     $("#fitu").fadeOut(100);
     $("#fitur").fadeIn(1000);
     $("#tarik").fadeOut(100);
+    $("#welcome").fadeIn(1000);
     
     
   });
