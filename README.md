@@ -457,15 +457,15 @@
 }
 
 .nama{
-   font-size:29px;
+   font-size:9px;
 }
 
 .email{
-   font-size:29px;
+   font-size:9px;
 }
 
 .pesan{
-font-size:29px;
+font-size:9px;
 }
 
 
