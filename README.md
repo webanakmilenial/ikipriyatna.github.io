@@ -370,7 +370,7 @@
   
   .kirim{
   				width:100%;
-  				padding:12px;
+  				padding:14px;
   }
 
 .garis{
@@ -449,7 +449,7 @@
 
 .titik{
       float:none;
-      margin-left:37.5%;
+      margin-left:38%;
 }
 
 .titi{
