@@ -273,7 +273,7 @@
 				background-color:grey;
 				width:30%;
 				color:white;
-				font-size:25px;
+				font-size:25px; display:none;
 }
 
 .span{
@@ -519,6 +519,7 @@ $(document).ready(function(){
 																<a class='home' href="#">HOME</a>
 																<a href="#">ABOUT</a>
 																<a href="#"><button class="fitur" id="fitur">FITUR</button></a>
+                                                                                                                                 <button class="tarik" id="tarik">×</button>
 																<a href="#">ADMIN</a>
 																
 												</li>
@@ -592,13 +593,15 @@ $(document).ready(function(){
 						<li>		<a class="login" href="#">Fitur 6</a></li>
 						
 								</ul>
-							<button class="tarik" id="tarik">×</button>	
+								
 								
 								<script>
 												$(document).ready(function(){
   $("#fitur").click(function(){
     $("#fitu").fadeIn(1000);
     $("#get").fadeOut(100);
+    $("#fitur").fadeOut(100);
+    $("#tarik").fadeIn(1000);
     
     
   });
@@ -608,6 +611,7 @@ $(document).ready(function(){
   $("#tarik").click(function(){
     $("#get").fadeIn(1000);
     $("#fitu").fadeOut(100);
+    $("#fitur").fadeIn(1000);
     
     
   });
