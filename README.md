@@ -474,11 +474,7 @@ font-size:11px;
 
 <body>
 				<div class="head">
-					<button class="span" id="span">
-								<span></span>
-								<span></span>
-								<span></span>
-								</button>
+					
 					<button class="mobel" id="mobel">×</button>
 					
 								
