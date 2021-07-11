@@ -380,7 +380,7 @@
 }
 
 .fitu{
-				float:left;
+				float:right;
 				
 				
 				
