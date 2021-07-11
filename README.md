@@ -359,7 +359,7 @@
 }
 
 .fitu{
-				float:none; margin-left:-30%; margin-bottom:30%;
+				float:none; margin-left:-30%; position:fixed; top:0;
 
 				
 				
