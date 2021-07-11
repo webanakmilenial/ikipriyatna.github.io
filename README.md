@@ -421,8 +421,7 @@
 }
 
 .tarik{
-				padding-left:36.5%;
-				padding-right:36.5%;
+			        
 				display:none;
 				
 				
