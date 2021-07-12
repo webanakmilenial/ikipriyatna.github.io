@@ -4,7 +4,10 @@
 				<title>Prytna Code</title>
 				<lnk rel="stlesheet" href="prytnacode.css">
 				<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-				<style>
+				<script data-ad-client="ca-pub-8570471038894942" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<style>
 								body{
 				background-image:url(https://raw.githubusercontent.com/ikipriyatna/ikipriyatna.github.io/main/prytnacode.jpeg);
 				background-position:-50%-100%;
