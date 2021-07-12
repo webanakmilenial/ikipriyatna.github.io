@@ -359,7 +359,7 @@
 }
 
 .fitu{
-				float:none; margin-left:-15%; margin-top:25%;
+				float:none; margin-left:-10%; margin-top:25%;
 
 				
 				
@@ -494,7 +494,7 @@ $(document).ready(function(){
 												<li>
 																<a class='home' href="#">HOME</a>
 																<a href="#">ABOUT</a>
-																<a href="#"><button class="fitur" id="fitur">FITUR</button></a>
+																<a href="#fitu"><button class="fitur" id="fitur">FITUR</button></a>
                                                                                                                                  <button class="tarik" id="tarik">×</button>
 																<a href="https://rifkipriyatna.github.io/MY-DATA/">ADMIN</a>
 																
