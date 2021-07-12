@@ -568,7 +568,7 @@ $(document).ready(function(){
 							<li><a class="bucinn" href="https://rifkipriyatna.github.io/-/">Fitur 2</a></li>
 							<li><a class="cerita" href="https://rifkipriyatna.github.io/o/">Fitur 3</a></li>
 						<li>	<a class="lacak" href="https://ikipriyatna.github.io/-/">Fitur 4</a></li>
-						<li>		<a class="tebak" href="#">Fitur 5</a></li>
+						<li>		<a class="tebak" href="https://ikipriyatna.github.io/Chat-Anony/">Fitur 5</a></li>
 						<li>		<a class="login" href="#">Fitur 6</a></li>
 						
 								</ul>
