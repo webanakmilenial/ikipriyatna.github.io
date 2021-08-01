@@ -10,7 +10,7 @@
 <style>
 								body{
 				background-image:url(https://raw.githubusercontent.com/ikipriyatna/ikipriyatna.github.io/main/prytnacode.jpeg);
-				background-position:-10%-100%;
+				background-position:0%-100%;
 }
 
 
