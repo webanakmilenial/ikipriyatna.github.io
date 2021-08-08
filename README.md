@@ -5,7 +5,7 @@
 				<lnk rel="stlesheet" href="prytnacode.css">
 				<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 				<script data-ad-client="ca-pub-8570471038894942" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<meta name="google-site-verification" content="xpBETfXNpC0LZiNeYypWMN0RXtXFbqM9hZuaW4JbdXo"
+<meta name="google-site-verification" content="+xpBETfXNpC0LZiNeYypWMN0RXtXFbqM9hZuaW4JbdXo"
 
 <style>
 								body{
